@@ -1,5 +1,5 @@
 # Reymond Joaquin's Portfolio & Projects
-Hi, I’m **Reymond Joaquin** 👋. I’m an aspiring ethical hacker and a cybersecurity student. I’m passionate about building my own tools and learning new things in the fields of cybersecurity, ethical hacking, computer networking, Linux, and programming.
+Hi, I’m **Reymond Joaquin** 👋. I’m an aspiring **ethical hacker** and a **BSIS student**. I’m passionate about building my own tools and learning new things in the fields of cybersecurity, ethical hacking, computer networking, Linux, and programming.
 
 ## Skills
 - **Programming Languages:** 💻 Python, C++, Bash Scripting
