@@ -51,7 +51,7 @@ WebDirsCovery is a tool designed to automate and simplify the process of discove
 Designed to speed up the process of web reconnaissance, **WebDirsCovery** utilizes a combination of common, custom, and user-specified directory lists to maximize discovery potential. It’s an efficient tool for both beginners who want automated scans and advanced users who need customization and manual control over directory testing.
 
 **Check it out here:**
-[WebDIrsCovery v1.0 Github Link](https://github.com/R3ym0nd0/Python-Resources/tree/main/MyToolBox/OpenPortHunter/OpenPortHunter%20(1.2))
+[WebDIrsCovery v1.0 Github Link](https://github.com/R3ym0nd0/Python-Resources/tree/main/MyToolBox/WebDirsCovery/WebDirsCovery%20(1.0))
 
 ## In-progress Learning 🛣️
 - Learning Regex
