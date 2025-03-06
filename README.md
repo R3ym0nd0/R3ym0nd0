@@ -1,5 +1,5 @@
-# Reymond Joaquin: Ethical Hacking Portfolio & Projects
-Hi, I’m Reymond Joaquin 👋. I’m an aspiring **ethical hacker** and a **BSIS student** with a strong passion for building custom tools and expanding my knowledge in **ethical hacking**, **computer networking**, **Linux**, and **programming**.
+# Reymond Joaquin: Web Penetration Tester Portfolio & Projects
+Hi, I’m Reymond Joaquin 👋. I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a strong passion for building custom tools and expanding my knowledge in **ethical hacking**, **computer networking**, **Linux**, and **programming**.
 
 ## Skills 💡
 - **Programming Languages:** 🧑‍💻  Python (Intermediate), C++ (Basic), Bash Scripting (Basic)
