@@ -54,8 +54,8 @@ Designed to speed up the process of web reconnaissance, **WebDirsCovery** utiliz
 [WebDIrsCovery v1.0 Github Link](https://github.com/R3ym0nd0/Python-Resources/tree/main/MyToolBox/WebDirsCovery/WebDirsCovery%20(1.0))
 
 ## In-progress Learning 🛣️
+- Creating Custom Payloads
 - Learning Regex
-- Learning asychronus programming in Python
 - Improving my tools
 - Learning SQL Injection
 
