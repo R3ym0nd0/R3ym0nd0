@@ -46,6 +46,7 @@ A tool that automates the process of finding directories on websites. It include
 - Improving my Portfolio
 - Learning Backend Developement
 - Learning OWASP Top 10
+- Getting Hands on in Hack the Box 
 
 <!---
 R3ym0nd0/R3ym0nd0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
