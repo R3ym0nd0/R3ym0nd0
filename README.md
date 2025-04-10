@@ -44,7 +44,7 @@ A tool that automates the process of finding directories on websites. It include
 
 - Improving my Tools
 - Improving my Portfolio
-- Learning Backend Developement
+- Learning Backend Development
 - Learning OWASP Top 10
 - Getting Hands on in Hack the Box 
 
