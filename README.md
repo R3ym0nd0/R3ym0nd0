@@ -1,4 +1,3 @@
-# Reymond Joaquin: Github Portfolio & Projects
 Hi, I’m Reymond Joaquin 👋. I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a strong passion for building custom tools and expanding my knowledge in **Web Development**, **Computer Networking**, **Linux**, and **Programming**.
 
 ## Skills 💡
