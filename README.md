@@ -21,7 +21,7 @@ A tool written in Bash script for automating website reconnaissance using Nmap a
 **For more details, check it out here:**
 [AutoWebRecon v0.1 Pre-release GitHub Link](https://github.com/R3ym0nd0/Bash-Resources/tree/main/AutoWebRecon/AutoWebRecon%20(pre-release))
 
-### 3. IPNetSolver v1.2 🔢 
+### 3. IPNetSolver v2.0 🔢 
 A tool written in Python for automating subnetting, including FLSM, VLSM, supernetting, and converting whole numbers/IP addresses to binary. Helps network engineers, ethical hackers, and students save time and learn subnetting.
 
 **For more details, check it out here:**
