@@ -25,7 +25,7 @@ A tool written in Bash script for automating website reconnaissance using Nmap a
 A tool written in Python for automating subnetting, including FLSM, VLSM, supernetting, and converting whole numbers/IP addresses to binary. Helps network engineers, ethical hackers, and students save time and learn subnetting.
 
 **For more details, check it out here:**
-[IPnetSolver v1.2 Github Link](https://github.com/R3ym0nd0/Python-Resources/tree/main/MyToolBox/IPnetSolver/IPnetSolver%20(1.2))
+[IPnetSolver v1.2 Github Link](https://github.com/R3ym0nd0/Python-Resources/tree/main/MyToolBox/IPnetSolver/IPnetSolver_v2.0)
 
 ### 4. OpenPortHunter v1.2 👀
 A tool written in Python that identifies open ports and provides WHOIS information for the target before scanning. Offers flexible port scanning options, including specific, well-known, registered, ephemeral, or all ports.
