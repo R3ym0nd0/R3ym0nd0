@@ -3,7 +3,7 @@ Hi, I’m Reymond Joaquin 👋. I’m an aspiring **Web Penetration Tester** and
 ## Skills 💡
 - **Programming Languages:** 🧑‍💻  Python (Intermediate), C++ (Basic), Bash Scripting (Basic)
 - **Pentesting Tools:** 🔧 Familiar with Nmap, Metasploit, Hydra, Dirbuster, Gobuster, Wireshark, Burp Suite, Netcat
-- **Computer Networking:** 🌐 Subnetting, Common Protocols, Networking Device, Topologies, TCP/IP and OSI Models
+- **Computer Networking:** 🌐 Subnetting, Common Protocols & Ports, Networking Device, Topologies, TCP/IP and OSI Models
 - **OS:** 🖥️ Kali Linux (Basic), Windows(Basic)
 - **Frontend Development** 🎨  HTML (Basic), CSS (Basic), JavaScript (Basic)
 
