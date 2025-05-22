@@ -90,7 +90,7 @@ A tool written in Python that identifies open ports and provides WHOIS informati
 A tool written in Python that automates the process of finding directories on websites. It includes options for automated directory scanning, custom scans, and manual scanning, providing flexibility for different use cases.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTTPS](https://img.shields.io/badge/HTTPS-Knowledge-2c3e50?style=for-the-badge&logo=security&logoColor=white)
+![HTTPS](https://img.shields.io/badge/HTTPS-Fundamentals-2c3e50?style=for-the-badge&logo=security&logoColor=white)
 
 **For more details, check it out here:**
 [WebDIrsCovery v1.0 Github Link](https://github.com/R3ym0nd0/Python-Resources/tree/main/MyToolBox/WebDirsCovery/WebDirsCovery%20(1.0))
