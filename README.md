@@ -8,7 +8,7 @@ I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a stron
 
 ## 💡 My Skills
 
-### 🧠 Programming Languages:
+### 🧑‍💻 Programming & Scripting:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-squaree&logo=gnubash&logoColor=white)
 
