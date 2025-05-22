@@ -1,4 +1,4 @@
-# Hi, I’m Reymond Joaquin 👋. 
+# Hi, I’m Reymond Joaquin 👋 
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/reymondjoaquin26)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@R3ym0ndd)
