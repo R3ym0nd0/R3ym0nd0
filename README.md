@@ -6,7 +6,7 @@
 
 I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a strong passion for building custom tools and expanding my knowledge in **Web Development**, **Computer Networking**, **Linux**, and **Programming**.
 
-## 💡 My Skills & Tools I used
+## My Skills & Tools I used
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-squaree&logo=gnubash&logoColor=white)
@@ -32,18 +32,15 @@ I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a stron
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux Terminal](https://img.shields.io/badge/Linux_Terminal-000000?style=flat-square&logo=gnubash&logoColor=white)
 
-## Key Mini Projects 🔑
+## Key Mini Projects
 
-### 1. My Web Portfolio v0.0.1 Pre-release 🎨
-My own web portfolio that I built from scratch using HTML and CSS to showcase my skills and projects.
+### 1. [My Web Portfolio v0.0.1 Pre-release](https://github.com/R3ym0nd0/Front-end_Development/tree/main/Portfolio/MyWebPortfolio%20(v0.0.1))
+My own web portfolio that I built from scratch using HTML and CSS to share my story, skills and projects.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**For more details, check it out here:**
-[My Web Portfolio v0.0.1 Pre-release GitHub Link](https://github.com/R3ym0nd0/Front-end_Development/tree/main/Portfolio/MyWebPortfolio%20(v0.0.1))
-
-### 2. AutoWebRecon v0.1 Pre-release 🕵️‍♂️    
+### 2. [ AutoWebRecon v0.1 Pre-release](https://github.com/R3ym0nd0/Bash-Resources/tree/main/AutoWebRecon/AutoWebRecon%20(pre-release))    
 A tool written in Bash script for automating website reconnaissance using Nmap and Nikto commands. It scans websites to gather information like open ports, service versions, and vulnerabilities.
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -51,40 +48,28 @@ A tool written in Bash script for automating website reconnaissance using Nmap a
 ![Nikto](https://img.shields.io/badge/Nikto-800000?style=for-the-badge&logo=security&logoColor=white)
 ![Protocols & Ports](https://img.shields.io/badge/Common%20Protocols%20%26%20Ports-708090?style=for-the-badge)
 
-**For more details, check it out here:**
-[AutoWebRecon v0.1 Pre-release GitHub Link](https://github.com/R3ym0nd0/Bash-Resources/tree/main/AutoWebRecon/AutoWebRecon%20(pre-release))
-
-### 3. IPNetSolver v2.0 🔢  
-A tool written in Python for automating subnetting, including FLSM, VLSM, supernetting, and converting whole numbers/IP addresses to binary. Helps network engineers, ethical hackers, and students save time and learn subnetting.
+### 3. [IPnetSolver v2.0](https://github.com/R3ym0nd0/Python-Resources/tree/main/MyToolBox/IPnetSolver/IPnetSolver_v2.0)  
+A tool written in Python for automating subnetting, including FLSM, VLSM, supernetting, and converting whole numbers/IP addresses to binary. It Helps network engineers, ethical hackers, and students save time and learn subnetting.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Subnetting](https://img.shields.io/badge/Subnetting-00BFFF?style=for-the-badge)
 
-**For more details, check it out here:**
-[IPnetSolver v2.0 Github Link](https://github.com/R3ym0nd0/Python-Resources/tree/main/MyToolBox/IPnetSolver/IPnetSolver_v2.0)
-
-### 4. OpenPortHunter v1.2 👀 
-A tool written in Python that identifies open ports and provides WHOIS information for the target before scanning. Offers flexible port scanning options, including specific, well-known, registered, ephemeral, or all ports.
+### 4. [OpenPortHunter v1.2](https://github.com/R3ym0nd0/Python-Resources/tree/main/MyToolBox/OpenPortHunter/OpenPortHunter%20(1.2))
+A tool written in Python that identifies open ports and provides WHOIS information for the target before scanning. It Offers flexible port scanning options, including specific, well-known, registered, ephemeral, or all ports.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-4682B4?style=for-the-badge)
 ![Protocols & Ports](https://img.shields.io/badge/Common%20Protocols%20%26%20Ports-708090?style=for-the-badge)
 
-**For more details, check it out here:**
-[OpenPortHunter v1.2 Github Link](https://github.com/R3ym0nd0/Python-Resources/tree/main/MyToolBox/OpenPortHunter/OpenPortHunter%20(1.2))
-
-### 5. WebDirsCovery v1.0 📂👁️ 
+### 5. [WebDIrsCovery v1.0](https://github.com/R3ym0nd0/Python-Resources/tree/main/MyToolBox/WebDirsCovery/WebDirsCovery%20(1.0))
 A tool written in Python that automates the process of finding directories on websites. It includes options for automated directory scanning, custom scans, and manual scanning, providing flexibility for different use cases.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTTPS](https://img.shields.io/badge/HTTPS-Fundamentals-2c3e50?style=for-the-badge&logo=security&logoColor=white)
 
-**For more details, check it out here:**
-[WebDIrsCovery v1.0 Github Link](https://github.com/R3ym0nd0/Python-Resources/tree/main/MyToolBox/WebDirsCovery/WebDirsCovery%20(1.0))
-
 ---
 
-## In-progress 🛣️
+## In-progress
 
 - Improving my Tools
 - Improving my Portfolio (with JavaScript + DOM)
