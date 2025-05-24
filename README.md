@@ -32,7 +32,7 @@ I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a stron
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux Terminal](https://img.shields.io/badge/Linux_Terminal-000000?style=flat-square&logo=gnubash&logoColor=white)
 
-## Key Projects 🔑
+## Key Mini Projects 🔑
 
 ### 1. My Web Portfolio v0.0.1 Pre-release 🎨
 My own web portfolio that I built from scratch using HTML and CSS to showcase my skills and projects.
