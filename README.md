@@ -3,6 +3,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/reymondjoaquin26)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@R3ym0ndd)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:raymondjoaquin50@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reymond-joaquin-3b5954308/)
 [![My Web Portfolio](https://img.shields.io/badge/My_Web_Portfolio(soon)-ff3e1c?style=flat-square&logo=googlechrome&logoColor=white)]()
 
 I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a strong passion for building custom tools and expanding my knowledge in **Web Development**, **Computer Networking**, **Linux**, and **Programming**.
@@ -62,7 +63,7 @@ A tool written in Python that identifies open ports and provides WHOIS informati
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-4682B4?style=for-the-badge)
 ![Protocols & Ports](https://img.shields.io/badge/Common%20Protocols%20%26%20Ports-708090?style=for-the-badge)
 
-### 5. [WebDIrsCovery v1.0](https://github.com/R3ym0nd0/Python-Resources/tree/main/MyToolBox/WebDirsCovery/WebDirsCovery%20(1.0))
+### 5. [WebDirsCovery v1.0](https://github.com/R3ym0nd0/Python-Resources/tree/main/MyToolBox/WebDirsCovery/WebDirsCovery%20(1.0))
 A tool written in Python that automates the process of finding directories on websites. It includes options for automated directory scanning, custom scans, and manual scanning, providing flexibility for different use cases.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
