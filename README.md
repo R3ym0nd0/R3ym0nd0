@@ -35,8 +35,6 @@ I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a stron
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux Terminal](https://img.shields.io/badge/Linux_Terminal-000000?style=flat-square&logo=gnubash&logoColor=white)
 
----
-
 ## TryHackMe Progress
 <img src="https://tryhackme-badges.s3.amazonaws.com/R3ym0nd.png" alt="Your Image Badge" />
 
