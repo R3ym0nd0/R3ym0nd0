@@ -1,4 +1,4 @@
-# Hi, I’m Reymond Joaquin 👋 
+# Hi, I’m Reymond Joaquin 👋
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/reymondjoaquin26)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reymond-joaquin-3b5954308/)
@@ -34,6 +34,11 @@ I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a stron
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux Terminal](https://img.shields.io/badge/Linux_Terminal-000000?style=flat-square&logo=gnubash&logoColor=white)
+
+---
+
+## TryHackMe Progress
+<img src="https://tryhackme-badges.s3.amazonaws.com/R3ym0nd.png" alt="Your Image Badge" />
 
 ## My Mini Projects
 
