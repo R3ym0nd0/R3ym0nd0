@@ -2,8 +2,8 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/reymondjoaquin26)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reymond-joaquin-3b5954308/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000?style=flat-square&logo=tryhackme&logoColor=white)](https://www.youtube.com/@reycademy)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@R3ym0ndd)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/R3ym0nd)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@reycademy)
 [![My Web Portfolio](https://img.shields.io/badge/My_Web_Portfolio(soon)-ff3e1c?style=flat-square&logo=googlechrome&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:raymondjoaquin50@gmail.com)
 
