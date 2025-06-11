@@ -40,7 +40,7 @@ I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a stron
 
 ## My Mini Projects
 
-### 1. [My Web Portfolio v0.0.1 Pre-release](https://github.com/R3ym0nd0/Front-end_Development/tree/main/Portfolio/MyWebPortfolio%20(v0.0.1))
+### 1. [My Web Portfolio v0.1.0 Pre-release](https://github.com/R3ym0nd0/Front-end_Development/tree/main/Portfolio/MyWebPortfolio_v0.1.0)
 My own web portfolio that I built from scratch using HTML and CSS to share my story, skills and projects.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
