@@ -9,7 +9,7 @@
 
 I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a strong passion for building custom tools and expanding my knowledge in **Web Development**, **Computer Networking**, **Linux**, and **Programming**.
 
-## My Skills & Tools I used
+## My Skills & Tools I use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-squaree&logo=gnubash&logoColor=white)
@@ -41,7 +41,7 @@ I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a stron
 ## My Mini Projects
 
 ### 1. [My Web Portfolio v0.1.0 Pre-release](https://github.com/R3ym0nd0/Front-end_Development/tree/main/Portfolio/MyWebPortfolio_v0.1.0)
-My own web portfolio that I built from scratch using HTML and CSS to share my story, skills and projects.
+My own web portfolio that I built from scratch using HTML, CSS, and JavaScript to share my story, skills and projects.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
