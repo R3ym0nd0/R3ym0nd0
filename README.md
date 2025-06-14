@@ -74,8 +74,13 @@ A tool written in Python that automates the process of finding directories on we
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTTPS](https://img.shields.io/badge/HTTPS-Fundamentals-2c3e50?style=for-the-badge&logo=security&logoColor=white)
 
----
+## Future Projects
 
+- HTTPayload
+- Reycademy Youtube Channel
+- Reycademy Website
+
+---
 ## In-progress
 
 - Improving my Tools
