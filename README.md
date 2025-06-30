@@ -51,8 +51,7 @@ My first web portfolio that I built from scratch using HTML, CSS, and JavaScript
 A tool written in Bash script for automating website reconnaissance using built-in Kali tools. It scans websites to gather information like open ports, service versions, and vulnerabilities.
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004688?style=for-the-badge&logo=nmap&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-800000?style=for-the-badge&logo=security&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Protocols & Ports](https://img.shields.io/badge/Common%20Protocols%20%26%20Ports-708090?style=for-the-badge)
 
 ### 3. [IPnetSolver v2.0](https://github.com/R3ym0nd0/IPnetSolver)  
