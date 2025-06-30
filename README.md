@@ -47,8 +47,8 @@ My first web portfolio that I built from scratch using HTML, CSS, and JavaScript
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 2. [AutoWebRecon v0.1 Pre-release](https://github.com/R3ym0nd0/AutoWebRecon)    
-A tool written in Bash script for automating website reconnaissance using Nmap and Nikto commands. It scans websites to gather information like open ports, service versions, and vulnerabilities.
+### 2. [AutoWebRecon v1.0.0](https://github.com/R3ym0nd0/AutoWebRecon)    
+A tool written in Bash script for automating website reconnaissance using built-in Kali tools. It scans websites to gather information like open ports, service versions, and vulnerabilities.
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004688?style=for-the-badge&logo=nmap&logoColor=white)
