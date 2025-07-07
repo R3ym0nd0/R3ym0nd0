@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reymond-joaquin-3b5954308/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/R3ym0nd)
 [![YouTube](https://img.shields.io/badge/YouTube(soon)-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@reycademy)
-[![My Web Portfolio](https://img.shields.io/badge/My_Web_Portfolio-ff3e1c?style=flat-square&logo=googlechrome&logoColor=white)](https://r3ym0nd0.github.io/)
+[![My Web Portfolio](https://img.shields.io/badge/My_Web_Portfolio-ff3e1c?style=flat-square&logo=googlechrome&logoColor=white)](https://reymondjoaquin.netlify.app/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:raymondjoaquin50@gmail.com)
 
 I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a strong passion for building custom tools and expanding my knowledge in **Web Development**, **Computer Networking**, **Linux**, and **Programming**.
@@ -40,7 +40,7 @@ I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a stron
 
 ## My Mini Projects
 
-### 1. [My Website Portfolio v0.4.0 Pre-release](https://github.com/R3ym0nd0/r3ym0nd0.github.io)
+### 1. [My Website Portfolio v1.0.0](https://github.com/R3ym0nd0/r3ym0nd0.github.io)
 My first web portfolio that I built from scratch using HTML, CSS, and JavaScript to share my journey, skills, and projects.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
