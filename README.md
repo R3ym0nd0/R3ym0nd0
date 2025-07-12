@@ -40,7 +40,7 @@ I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a stron
 
 ## My Mini Projects
 
-### 1. [My Website Portfolio v1.1.1](https://github.com/R3ym0nd0/Reymond-Portfolio)
+### 1. [My Website Portfolio v1.2.0](https://github.com/R3ym0nd0/Reymond-Portfolio)
 My first web portfolio that I built from scratch using HTML, CSS, and JavaScript to share my journey, skills, and projects.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -75,6 +75,7 @@ A tool written in Python that automates the process of finding directories on we
 
 ## Future Projects
 
+- ReyBOT
 - HTTPayload
 - Reycademy Youtube Channel
 - Reycademy Website
