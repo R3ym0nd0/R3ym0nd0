@@ -39,7 +39,7 @@ I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a stron
 
 ## My Personal Projects
 
-### 1. [Reycademy v0.0.1 Pre-Release](https://github.com/r3ym0nd0/Reycademy)
+### 1. [Reycademy v0.0.1 Pre-Release](https://github.com/R3ym0nd0/Reycademy)
 A free ethical hacking education site with structured Tagalog videos and hands-on training.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
