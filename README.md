@@ -6,7 +6,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/R3ym0nd)
 [![YouTube](https://img.shields.io/badge/YouTube(soon)-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@reycademy)
 [![My Web Portfolio](https://img.shields.io/badge/My_Web_Portfolio-ff3e1c?style=flat-square&logo=googlechrome&logoColor=white)](https://reymondjoaquin.netlify.app/)
-[![Reycademy](https://img.shields.io/badge/Reycademy-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://www.linkedin.com/in/reymond-joaquin-3b5954308/)
+[![Reycademy](https://img.shields.io/badge/Reycademy-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://reycademy.netlify.app/)
 
 I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a strong passion for building custom tools and expanding my knowledge in **Web Development**, **Computer Networking**, **Linux**, and **Programming**.
 
