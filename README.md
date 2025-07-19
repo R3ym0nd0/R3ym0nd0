@@ -37,9 +37,9 @@ I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a stron
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux Terminal](https://img.shields.io/badge/Linux_Terminal-000000?style=flat-square&logo=gnubash&logoColor=white)
 
-## My Mini Projects
+## My Personal Projects
 
-### 1. [Reycademy v0.0.1 Pre-Release](https://reycademy.netlify.app/)
+### 1. [Reycademy v0.0.1 Pre-Release](https://github.com/r3ym0nd0/Reycademy)
 A free ethical hacking education site with structured Tagalog videos and hands-on training.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
