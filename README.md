@@ -54,27 +54,27 @@ My first web portfolio that I built from scratch using HTML, CSS, and JavaScript
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 3. [AutoWebRecon v1.0.0](https://github.com/R3ym0nd0/AutoWebRecon)    
-A tool written in Bash script for automating website reconnaissance using built-in Kali tools. It scans websites to gather information like open ports, service versions, and vulnerabilities.
+A tool written in Bash script for automating website reconnaissance using built-in Kali tools.
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Protocols & Ports](https://img.shields.io/badge/Common%20Protocols%20%26%20Ports-708090?style=for-the-badge)
 
 ### 4. [IPnetSolver v2.0](https://github.com/R3ym0nd0/IPnetSolver)  
-A tool written in Python for automating subnetting, including FLSM, VLSM, supernetting, and converting whole numbers/IP addresses to binary. It Helps network engineers, ethical hackers, and students save time and learn subnetting.
+A tool written in Python for automating subnetting, including FLSM, VLSM, supernetting, and converting whole numbers/IP addresses to binary.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Subnetting](https://img.shields.io/badge/Subnetting-00BFFF?style=for-the-badge)
 
 ### 5. [OpenPortHunter v1.2](https://github.com/R3ym0nd0/OpenPortHunter)
-A tool written in Python that identifies open ports and provides WHOIS information for the target before scanning. It Offers flexible port scanning options, including specific, well-known, registered, ephemeral, or all ports.
+A tool written in Python that identifies open ports and provides WHOIS information for the target before scanning.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-4682B4?style=for-the-badge)
 ![Protocols & Ports](https://img.shields.io/badge/Common%20Protocols%20%26%20Ports-708090?style=for-the-badge)
 
 ### 6. [WebDirsCovery v1.0](https://github.com/R3ym0nd0/WebDirsCovery)
-A tool written in Python that automates the process of finding directories on websites. It includes options for automated directory scanning, custom scans, and manual scanning, providing flexibility for different use cases.
+A tool written in Python that automates the process of finding directories on websites. 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTTPS](https://img.shields.io/badge/HTTPS-Fundamentals-2c3e50?style=for-the-badge&logo=security&logoColor=white)
