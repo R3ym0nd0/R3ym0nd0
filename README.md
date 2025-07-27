@@ -8,7 +8,7 @@
 [![My Web Portfolio](https://img.shields.io/badge/My_Web_Portfolio-ff3e1c?style=flat-square&logo=googlechrome&logoColor=white)](https://reymondjoaquin.netlify.app/)
 [![Reycademy](https://img.shields.io/badge/Reycademy-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://reycademy.netlify.app/)
 
-I'm a 2nd year **BSIS student** who's into **web penetration testing**, improving my **Linux**, **scripting**, **web dev**, and **networking** skills, and building projects along the way.
+I'm a 2nd year **BSIS student** who's into **web penetration testing**, improving my **Linux**, **scripting**, **web dev**, **networking** skills, and building projects along the way.
 
 ---
 
