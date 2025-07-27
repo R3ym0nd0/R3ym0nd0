@@ -10,7 +10,9 @@
 
 I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a strong passion for building custom tools and expanding my knowledge in **Web Development**, **Computer Networking**, **Linux**, and **Programming**.
 
-## My Skills & Tools I use
+---
+
+## My Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -84,6 +86,8 @@ A tool written in Python that automates the process of finding directories on we
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTTPS](https://img.shields.io/badge/HTTPS-Fundamentals-2c3e50?style=for-the-badge&logo=security&logoColor=white)
+
+---
 
 ## Additional Fun Projects
 
