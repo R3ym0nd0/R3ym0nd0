@@ -37,6 +37,7 @@ I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a stron
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux Terminal](https://img.shields.io/badge/Linux_Terminal-000000?style=flat-square&logo=gnubash&logoColor=white)
+
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=R3ym0nd0&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3ym0nd0&layout=compact&theme=tokyonight)
