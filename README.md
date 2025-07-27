@@ -37,7 +37,11 @@ I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a stron
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux Terminal](https://img.shields.io/badge/Linux_Terminal-000000?style=flat-square&logo=gnubash&logoColor=white)
+---
+![GitHub Streak](https://streak-stats.demolab.com?user=R3ym0nd0&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3ym0nd0&layout=compact&theme=tokyonight)
 
+---
 ## My Personal Projects
 
 ### 1. [Reycademy v0.0.1 Pre-Release](https://github.com/R3ym0nd0/Reycademy)
@@ -87,13 +91,6 @@ A custom Minecraft bot built as a sidekick for singleplayer—to follow, protect
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Mineflayer](https://img.shields.io/badge/Mineflayer-1e90ff?style=for-the-badge&logo=node.js&logoColor=white)
-
----
-## GitHub Stats
-
-![Reymond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=R3ym0nd0&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=R3ym0nd0&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3ym0nd0&layout=compact&theme=tokyonight)
 
 ---
 ## In-progress
