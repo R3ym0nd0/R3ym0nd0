@@ -86,6 +86,7 @@ A tool written in Python that automates the process of finding directories on we
 A custom Minecraft bot built as a sidekick for singleplayer—to follow, protect, help, and make the world feel a little less lonely.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Mineflayer](https://img.shields.io/badge/Mineflayer-1e90ff?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 ## In-progress
