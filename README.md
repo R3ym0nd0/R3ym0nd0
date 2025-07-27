@@ -8,7 +8,7 @@
 [![My Web Portfolio](https://img.shields.io/badge/My_Web_Portfolio-ff3e1c?style=flat-square&logo=googlechrome&logoColor=white)](https://reymondjoaquin.netlify.app/)
 [![Reycademy](https://img.shields.io/badge/Reycademy-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://reycademy.netlify.app/)
 
-I’m an aspiring **Web Penetration Tester** and a **BSIS student** with a strong passion for building custom tools and expanding my knowledge in **Web Development**, **Computer Networking**, **Linux**, and **Programming**.
+I'm a 2nd year **BSIS student** who's into **web hacking**, improving my **Linux**, **scripting**, **web dev**, and **networking** skills, and building projects along the way.
 
 ---
 
