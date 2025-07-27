@@ -89,6 +89,13 @@ A custom Minecraft bot built as a sidekick for singleplayer—to follow, protect
 ![Mineflayer](https://img.shields.io/badge/Mineflayer-1e90ff?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
+## GitHub Stats
+
+![Reymond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=R3ym0nd0&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=R3ym0nd0&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3ym0nd0&layout=compact&theme=tokyonight)
+
+---
 ## In-progress
 
 - Improving my Tools
