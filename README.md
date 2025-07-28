@@ -43,6 +43,8 @@ I'm a 2nd year **BSIS student** who's into **web penetration testing**, improvin
 ---
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=R3ym0nd0&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3ym0nd0&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
