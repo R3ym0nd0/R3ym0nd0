@@ -41,8 +41,10 @@ I'm a 2nd year **BSIS student** who's into **web penetration testing**, improvin
 ![Linux Terminal](https://img.shields.io/badge/Linux_Terminal-000000?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
-![GitHub Streak](https://streak-stats.demolab.com?user=R3ym0nd0&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3ym0nd0&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=R3ym0nd0&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3ym0nd0&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 ## My Personal Projects
