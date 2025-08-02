@@ -51,7 +51,7 @@ I'm a 2nd year **BSIS student** who's into **web penetration testing**, building
 ---
 ## My Personal Projects
 
-### 1. [Reycademy v0.0.1 Pre-Release](https://github.com/R3ym0nd0/Reycademy)
+### 1. [Reycademy v0.1.0 Pre-Release](https://github.com/R3ym0nd0/Reycademy)
 A free ethical hacking education site with structured Tagalog videos and hands-on training.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -104,9 +104,7 @@ A custom Minecraft bot built as a sidekick for singleplayer—to follow, protect
 ---
 ## In-progress
 
-- Improving my Tools
-- Improving my Portfolio
-- Learning Backend Development
+- Learning Backend Development (Node.js, Express, SQL)
 - Learning OWASP Top 10
 - Getting Hands on in Hack the Box 
 
