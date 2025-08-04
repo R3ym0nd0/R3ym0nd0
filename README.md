@@ -106,7 +106,7 @@ A custom Minecraft bot built as a sidekick for singleplayer—to follow, protect
 
 - Learning Backend Development (Node.js, Express, SQL)
 - Learning OWASP Top 10
-- Getting Hands on in Hack the Box 
+- Getting Hands on in PortSwigger
 
 <!---
 R3ym0nd0/R3ym0nd0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
