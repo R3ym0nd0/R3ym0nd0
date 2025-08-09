@@ -51,7 +51,7 @@ I'm a 2nd year **BSIS student** who's into **web penetration testing**, currentl
 ---
 ## My Personal Projects
 
-### 1. [Reycademy v0.2.0 Pre-Release](https://github.com/R3ym0nd0/Reycademy)
+### 1. [Reycademy v0.2.1 Pre-Release](https://github.com/R3ym0nd0/Reycademy)
 A free cybersecurity education site with structured Tagalog videos and hands-on training.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
