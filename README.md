@@ -12,7 +12,7 @@ I'm a 2nd year **BSIS student** who's into **web penetration testing**, currentl
 
 ---
 
-## My Skills & Tools
+## My Foundation Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
