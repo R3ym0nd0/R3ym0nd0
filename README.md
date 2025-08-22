@@ -110,7 +110,7 @@ A custom Minecraft bot built as a sidekick for singleplayer—to follow, protect
 ## Learning Roadmap
 
 - **Foundation Phase**
-  - Backend Development (Node.js, Express, PostgreSQL, Web Servers: Nginx Apache, Docker)
+  - Backend Development (Node.js, Express, PostgreSQL, Web Servers: Nginx, Apache, Docker)
 
 ---
 
