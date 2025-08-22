@@ -106,11 +106,12 @@ A custom Minecraft bot built as a sidekick for singleplayer—to follow, protect
 ![Mineflayer](https://img.shields.io/badge/Mineflayer-1e90ff?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
-## In-progress
 
-- Learning Backend Development (Node.js, Express, SQL)
-- Learning OWASP Top 10
-- Getting Hands on in PortSwigger
+## Learning Roadmap
+
+- Backend Development (Node.js, Express, PostgreSQL)
+- Web Security (OWASP Top 10)
+- Hands-on Practice (PortSwigger Labs)
 
 <!---
 R3ym0nd0/R3ym0nd0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
