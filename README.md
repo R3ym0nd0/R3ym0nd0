@@ -111,9 +111,6 @@ A custom Minecraft bot built as a sidekick for singleplayer—to follow, protect
 
 - **Foundation Phase**
   - Backend Development (Node.js, Express, PostgreSQL, Web Servers: Nginx, Apache, Docker)
-
----
-
 - **Web Pentesting Phase**
   - Web Security (OWASP Top 10)
   - Hands-on Practice (PortSwigger Labs)
