@@ -5,8 +5,8 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:raymondjoaquin50@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/R3ym0nd)
 [![YouTube](https://img.shields.io/badge/YouTube(soon)-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@reycademy)
-[![My Web Portfolio](https://img.shields.io/badge/My_Web_Portfolio-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://reymondjoaquin.netlify.app/)
-[![Reycademy](https://img.shields.io/badge/Reycademy-%23000080?style=flat-square&logo=googlechrome&logoColor=white)](https://reycademy.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/My%20Web%20Portfolio-Reymond-blue?logo=netlify)](https://reymondjoaquin.netlify.app/)
+[![Reycademy](https://img.shields.io/badge/Reycademy-Site-blue?labelColor=000080)](https://reycademy.netlify.app/)
 
 I'm a 2nd year **BSIS student** who's into **web penetration testing**, currently building foundation in **Linux**, **scripting**, **web dev**, **networking** skills while building projects along the way.
 
