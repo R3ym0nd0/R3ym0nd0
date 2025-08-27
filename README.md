@@ -12,33 +12,46 @@ I'm a 2nd year **BSIS student** who's into **web penetration testing**, currentl
 
 ---
 
-## Reystack v1.0 (Foundation Skills)
+## Reystack (Restocking...)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Regex](https://img.shields.io/badge/Regex-000000?style=flat-square&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004688?style=flat-square&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-4E4E4E?style=flat-square&logo=metasploit&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-000000?style=flat-square&logoColor=white)
-![Dirbuster](https://img.shields.io/badge/Dirbuster-555555?style=flat-square)
-![Gobuster](https://img.shields.io/badge/Gobuster-444444?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=flat-square&logo=burpsuite&logoColor=white)
-![Subnetting](https://img.shields.io/badge/Subnetting-00BFFF?style=flat-square)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-4682B4?style=flat-square)
-![OSI Model](https://img.shields.io/badge/OSI%20Model-1E90FF?style=flat-square)
-![Protocols & Ports](https://img.shields.io/badge/Common%20Protocols%20%26%20Ports-708090?style=flat-square)
-![Networking Devices](https://img.shields.io/badge/Networking%20Devices-2F4F4F?style=flat-square)
-![Topologies](https://img.shields.io/badge/Topologies-556B2F?style=flat-square)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- **Scripting**
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+  ![Regex](https://img.shields.io/badge/Regex-000000?style=flat-square&logoColor=white)
+
+- **Networking Basics**
+  
+  ![Subnetting](https://img.shields.io/badge/Subnetting-00BFFF?style=flat-square)
+  ![TCP/IP](https://img.shields.io/badge/TCP/IP-4682B4?style=flat-square)
+  ![OSI Model](https://img.shields.io/badge/OSI%20Model-1E90FF?style=flat-square)
+  ![Protocols & Ports](https://img.shields.io/badge/Common%20Protocols%20%26%20Ports-708090?style=flat-square)
+  ![Networking Devices](https://img.shields.io/badge/Networking%20Devices-2F4F4F?style=flat-square)
+
+- **Web Technologies**
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-339933?style=flat-square&logo=express&logoColor=000000)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+- **Web Security**
+
+  ![SQL Injection](https://img.shields.io/badge/SQL%20Injection-Basics-8B0000?style=flat-square)
+  ![XSS](https://img.shields.io/badge/XSS-Basics-8B0000?style=flat-square)
+  ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=flat-square&logo=burpsuite&logoColor=white)
+  ![Gobuster](https://img.shields.io/badge/Gobuster-444444?style=flat-square)
+  ![Nmap](https://img.shields.io/badge/Nmap-004688?style=flat-square&logo=nmap&logoColor=white)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+- **OS & Tech Tools**
+
+  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
