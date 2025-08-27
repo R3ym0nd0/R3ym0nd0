@@ -12,7 +12,7 @@ I'm a 2nd year **BSIS student** who's into **web penetration testing**, currentl
 
 ---
 
-## Reystack (Restocking...)
+## Reystack (Foundation Skills)
 
 - **Scripting**
 
@@ -22,6 +22,7 @@ I'm a 2nd year **BSIS student** who's into **web penetration testing**, currentl
 
 - **Networking Basics**
   
+  ![IP Addressing](https://img.shields.io/badge/IP%20Addressing-006400?style=flat-square)
   ![Subnetting](https://img.shields.io/badge/Subnetting-00BFFF?style=flat-square)
   ![TCP/IP](https://img.shields.io/badge/TCP/IP-4682B4?style=flat-square)
   ![OSI Model](https://img.shields.io/badge/OSI%20Model-1E90FF?style=flat-square)
@@ -75,7 +76,7 @@ A free cybersecurity education site with structured Tagalog videos and hands-on 
 ![Express.js](https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=express&logoColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 2. [My Website Portfolio v1.2.2](https://github.com/R3ym0nd0/Reymond-Portfolio)
+### 2. [My Website Portfolio v1.2.3](https://github.com/R3ym0nd0/Reymond-Portfolio)
 My first web portfolio that I built from scratch using HTML, CSS, and JavaScript to share my journey, skills, and projects.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -123,7 +124,7 @@ A custom Minecraft bot built as a sidekick for singleplayer—to follow, protect
 ## Learning Roadmap
 
 - **Foundation Phase**
-  - Backend Development (Node.js, Express, PostgreSQL, Web Servers: Nginx, Apache, Docker)
+  - Backend Development (Node.js, Express, PostgreSQL, Nginx, Apache, Docker)
 - **Web Pentesting Phase**
   - Web Security (OWASP Top 10)
   - Hands-on Practice (PortSwigger Labs)
