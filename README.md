@@ -16,7 +16,7 @@ I'm a 2nd year **BSIS student** who's into **web penetration testing**, currentl
 
 - **Scripting**
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow) 
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
   ![Regex](https://img.shields.io/badge/Regex-000000?style=flat-square&logoColor=white)
 
