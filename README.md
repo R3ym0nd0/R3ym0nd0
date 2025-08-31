@@ -121,13 +121,16 @@ A custom Minecraft bot built as a sidekick for singleplayer—to follow, protect
 
 ---
 
-## Learning Roadmap
+## Current Focus & Goals
 
 - **Foundation Phase**
   - Backend Development (Node.js, Express, PostgreSQL, Nginx, Apache, Docker)
 - **Web Pentesting Phase**
   - Web Security (OWASP Top 10)
   - Hands-on Practice (PortSwigger Labs)
+- **Certifications**
+  - eJPT (planned after graduation
+  - OSCP (planned after graduation
 
 <!---
 R3ym0nd0/R3ym0nd0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
