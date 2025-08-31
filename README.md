@@ -129,8 +129,8 @@ A custom Minecraft bot built as a sidekick for singleplayer—to follow, protect
   - Web Security (OWASP Top 10)
   - Hands-on Practice (PortSwigger Labs)
 - **Certifications**
-  - eJPT (planned after graduation
-  - OSCP (planned after graduation
+  - eJPT (planned after graduation)
+  - OSCP (planned after graduation)
 
 <!---
 R3ym0nd0/R3ym0nd0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
