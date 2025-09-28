@@ -43,6 +43,7 @@ I'm a 2nd year **BSIS student** who's into **web penetration testing**, currentl
 
 - **Web Security**
 
+  ![Security Headers](https://img.shields.io/badge/Security%20Headers-A%2B-00FF00?style=flat-square)
   ![SQL Injection](https://img.shields.io/badge/SQL%20Injection-Basics-8B0000?style=flat-square)
   ![XSS](https://img.shields.io/badge/XSS-Basics-8B0000?style=flat-square)
   ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=flat-square&logo=burpsuite&logoColor=white)
