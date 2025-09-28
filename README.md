@@ -37,6 +37,9 @@ I'm a 2nd year **BSIS student** who's into **web penetration testing**, currentl
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-339933?style=flat-square&logo=express&logoColor=000000)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 - **Web Security**
 
@@ -124,7 +127,7 @@ A custom Minecraft bot built as a sidekick for singleplayer—to follow, protect
 ## Current Focus & Goals
 
 - **Foundation Phase**
-  - Backend Development (Node.js, Express, PostgreSQL, Nginx, Apache, Docker)
+  - Backend Development (Node.js, Express, PostgreSQL, Redis, Nginx, Apache, Docker)
 - **Web Pentesting Phase**
   - Web Security (OWASP Top 10)
   - Hands-on Practice (PortSwigger Labs)
