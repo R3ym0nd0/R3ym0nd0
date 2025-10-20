@@ -1,4 +1,4 @@
-# Hi, I’m Reymond Joaquin 👋
+# Hi, I’m Reymond Joaquin 👋 
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/reymondjoaquin26)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reymond-joaquin-3b5954308/)
@@ -7,6 +7,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube(soon)-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@reycademy)
 [![Portfolio](https://img.shields.io/badge/My%20Web%20Portfolio-Reymond-blue?logo=netlify)](https://reymondjoaquin.netlify.app/)
 [![Reycademy](https://img.shields.io/badge/Reycademy-Site-blue?labelColor=000080)](https://reycademy.netlify.app/)
+![Profile views](https://komarev.com/ghpvc/?username=R3ym0nd0&color=blue)
 
 I'm a 2nd year **BSIS student** who's into **web penetration testing**, currently building foundation in **Linux**, **scripting**, **web dev**, **networking** skills while building projects along the way.
 
