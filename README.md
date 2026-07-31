@@ -9,7 +9,7 @@
 [![Reycademy](https://img.shields.io/badge/Reycademy-Site-blue?labelColor=000080)](https://reycademy.netlify.app/)
 ![Profile views](https://komarev.com/ghpvc/?username=R3ym0nd0&color=blue)
 
-I'm a 2nd year **BSIS student** who's into **web penetration testing**, currently building foundation in **Linux**, **scripting**, **web dev**, **networking** skills while building projects along the way.
+I'm a 3rd year **BSIS student** who's into **web penetration testing**, currently building foundation in **Linux**, **scripting**, **web dev**, **networking** skills while building projects along the way.
 
 ---
 
